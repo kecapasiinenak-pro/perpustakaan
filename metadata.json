@@ -1,0 +1,6 @@
+{
+  "name": "Perpustakaan Bank Indonesia Cirebon",
+  "description": "Portal Resmi Perpustakaan Kantor Perwakilan Bank Indonesia Cirebon - Katalog Koleksi Buku, Pendaftaran Keanggotaan, dan Layanan Sirkulasi Riset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
