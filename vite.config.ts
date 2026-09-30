@@ -5,9 +5,6 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    // Penting untuk GitHub Pages
-    base: '/perpustakaan/',
-
     plugins: [react(), tailwindcss()],
 
     resolve: {
